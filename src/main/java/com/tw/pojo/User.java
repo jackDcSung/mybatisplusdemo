@@ -27,7 +27,7 @@ public class User {
     @TableLogic
     private Integer isDeleted;
 
-
+    
 
 
 }
